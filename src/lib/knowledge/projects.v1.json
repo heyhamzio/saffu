@@ -1,0 +1,135 @@
+[
+  {
+    "id": "project-homeglazer",
+    "type": "project",
+    "title": "HomeGlazer Color Visualizer",
+    "content": "A design + frontend project for painting services where customers preview wall colors before purchase. Built with Next.js, React, and Tailwind CSS.",
+    "tags": ["project", "homeglazer", "nextjs", "react", "tailwind", "visualizer"],
+    "source": {
+      "kind": "local",
+      "label": "Portfolio ingest",
+      "reference": "homeglazer"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "year": 2025,
+      "type": "Design + Frontend"
+    }
+  },
+  {
+    "id": "project-enqodeqr",
+    "type": "project",
+    "title": "EnqodeQR",
+    "content": "QR generation and management platform with intuitive UX for creating, customizing, and tracking QR codes. Covers design and full-stack implementation.",
+    "tags": ["project", "enqodeqr", "saas", "qr", "full-stack"],
+    "source": {
+      "kind": "local",
+      "label": "Portfolio ingest",
+      "reference": "enqodeqr"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "year": 2025,
+      "type": "Design + Development"
+    }
+  },
+  {
+    "id": "project-telegram-food-bot",
+    "type": "project",
+    "title": "Restaurant Food Ordering Bot",
+    "content": "Telegram automation flow with n8n backend integration to automate order placement and delivery tracking.",
+    "tags": ["project", "automation", "telegram", "n8n", "bot"],
+    "source": {
+      "kind": "local",
+      "label": "Portfolio ingest",
+      "reference": "restaurant-bot"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "year": 2025,
+      "type": "Workflow Automation"
+    }
+  },
+  {
+    "id": "project-analogue-designer",
+    "type": "project",
+    "title": "Analogue Schematic Designer",
+    "content": "Browser-based schematic design product concept enabling engineers to draw and collaborate with AI-assisted support.",
+    "tags": ["project", "product-design", "engineering", "ai"],
+    "source": {
+      "kind": "local",
+      "label": "Portfolio ingest",
+      "reference": "analogue-schematic-designer"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "year": 2024,
+      "type": "Lead Product Design"
+    }
+  },
+  {
+    "id": "experience-freelance",
+    "type": "experience",
+    "title": "Independent Product Manager & Builder",
+    "content": "Freelance role from Aug 2025 to present, shipping multiple products across product strategy, UX design, frontend engineering, and automation.",
+    "tags": ["experience", "freelance", "product", "ux", "frontend"],
+    "source": {
+      "kind": "local",
+      "label": "CV ingest",
+      "reference": "freelance"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "start": "2025-08",
+      "end": "present"
+    }
+  },
+  {
+    "id": "experience-swimwell",
+    "type": "experience",
+    "title": "Chief Product Officer at Swimwell Pools India",
+    "content": "Owned end-to-end UX and product direction for service-focused platforms from Feb 2024 to Jul 2025.",
+    "tags": ["experience", "cpo", "swimwell", "ux", "product"],
+    "source": {
+      "kind": "local",
+      "label": "CV ingest",
+      "reference": "swimwell"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "start": "2024-02",
+      "end": "2025-07"
+    }
+  },
+  {
+    "id": "experience-performics",
+    "type": "experience",
+    "title": "Product Designer at Performics.Convonix (Publicis)",
+    "content": "Long tenure from Nov 2014 to Jan 2024 leading UX research, design systems, and digital product delivery for enterprise clients.",
+    "tags": ["experience", "performics", "publicis", "design-system"],
+    "source": {
+      "kind": "local",
+      "label": "CV ingest",
+      "reference": "performics"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "start": "2014-11",
+      "end": "2024-01"
+    }
+  }
+]

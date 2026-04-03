@@ -1,0 +1,126 @@
+[
+  {
+    "id": "profile-summary",
+    "type": "profile",
+    "title": "Hamza summary",
+    "content": "Hamza Shaikh is a Product Designer and Design Engineer with 13+ years of experience. He bridges product strategy, UX design, and frontend implementation to ship high-conversion digital products.",
+    "tags": ["about", "summary", "experience", "profile"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "yearsExperience": 13
+    }
+  },
+  {
+    "id": "profile-core-strength",
+    "type": "profile",
+    "title": "Design to code strength",
+    "content": "His key differentiator is that he does not stop at design handoff. He builds production-ready experiences with Next.js, React, Tailwind CSS, and scalable design systems.",
+    "tags": ["design-to-code", "nextjs", "react", "tailwind", "strength"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "id": "profile-achievements",
+    "type": "faq",
+    "title": "Key achievements",
+    "content": "Hamza has shipped 20+ digital products, improved design-to-dev speed significantly through systems thinking, and delivered high-fidelity responsive interfaces across web and mobile contexts.",
+    "tags": ["achievements", "results", "products", "impact"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "id": "profile-contact",
+    "type": "contact",
+    "title": "Contact details",
+    "content": "Email: hamfulldesigns@gmail.com. LinkedIn: linkedin.com/in/hamzashaikh. Location: Mumbai, India.",
+    "tags": ["contact", "email", "linkedin", "location"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "email": "hamfulldesigns@gmail.com",
+      "linkedin": "linkedin.com/in/hamzashaikh",
+      "location": "Mumbai, India"
+    }
+  },
+  {
+    "id": "profile-tools",
+    "type": "skill",
+    "title": "Tools and platform stack",
+    "content": "Primary stack includes Next.js, React, Tailwind CSS, JavaScript, design systems, n8n automation, and product design tooling like Figma, Miro, and Adobe XD.",
+    "tags": ["skills", "tools", "figma", "n8n", "frontend"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "frontend": ["Next.js", "React", "Tailwind CSS", "JavaScript"],
+      "design": ["Figma", "Miro", "Adobe XD"],
+      "automation": ["n8n", "Zapier", "Make.com"]
+    }
+  },
+  {
+    "id": "profile-opportunities",
+    "type": "faq",
+    "title": "Current role preference",
+    "content": "He is open to Design Engineer, Product Designer, and Frontend Engineer roles, especially opportunities where design and engineering collaboration matters.",
+    "tags": ["roles", "hiring", "open-to-work"],
+    "source": {
+      "kind": "local",
+      "label": "One-time ingest from CV and portfolio",
+      "reference": "v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {}
+  },
+  {
+    "id": "tone-default",
+    "type": "toneRule",
+    "title": "Saffu default tone rule",
+    "content": "Answer with warmth and light humor while staying factual. No stereotypes, no fake claims, and no over-promising.",
+    "tags": ["tone", "guardrail", "saffu"],
+    "source": {
+      "kind": "manual",
+      "label": "Product persona rule",
+      "reference": "saffu-v1"
+    },
+    "updatedAt": "2026-02-24T00:00:00.000Z",
+    "version": 1,
+    "status": "active",
+    "attributes": {
+      "protected": true
+    }
+  }
+]
